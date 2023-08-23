@@ -1,0 +1,1614 @@
+2023-08-16 12:02:25.466078
+noise_mode: 0
+noise: 0.3
+beta: 0.5
+bg_w: 32
+vis_2dmasks: False
+vis_final: False
+test_final_acc: True
+print_final_acc: False
+consider_bg_obj: False
+shrink_box: True
+only_scanned_bg: True
+prompt_combine: False
+delete_sel: True
+
+scene0205_01:
+new accuracy : 52 4119
+baseline accuracy :71 6385
+
+scene0195_02:
+new accuracy : 67 4951
+baseline accuracy :86 6919
+
+scene0205_02:
+new accuracy : 5 292
+baseline accuracy :25 2170
+
+scene0439_00:
+new accuracy : 69 5987
+baseline accuracy :120 7966
+
+scene0484_00:
+new accuracy : 2 111
+baseline accuracy :29 2647
+
+scene0484_01:
+new accuracy : 2 131
+baseline accuracy :15 1041
+
+scene0614_00:
+new accuracy : 185 17250
+baseline accuracy :373 33676
+
+scene0009_00:
+new accuracy : 9 579
+baseline accuracy :40 2445
+
+scene0614_01:
+new accuracy : 168 18046
+baseline accuracy :291 27116
+
+scene0597_00:
+new accuracy : 52 3504
+baseline accuracy :95 6846
+
+scene0439_01:
+new accuracy : 60 3804
+baseline accuracy :119 7720
+
+scene0614_02:
+new accuracy : 143 13746
+baseline accuracy :270 26215
+
+scene0009_01:
+new accuracy : 11 799
+baseline accuracy :34 2498
+
+scene0009_02:
+new accuracy : 19 1060
+baseline accuracy :47 3420
+
+scene0597_01:
+new accuracy : 31 2929
+baseline accuracy :89 7352
+
+scene0597_02:
+new accuracy : 62 4690
+baseline accuracy :102 7286
+
+scene0404_00:
+new accuracy : 168 13057
+baseline accuracy :189 14205
+
+scene0468_00:
+new accuracy : 74 9632
+baseline accuracy :143 15147
+
+scene0404_01:
+new accuracy : 144 10607
+baseline accuracy :160 12625
+
+scene0468_01:
+new accuracy : 79 9779
+baseline accuracy :141 15414
+
+scene0302_00:
+new accuracy : 148 15970
+baseline accuracy :428 47813
+
+scene0302_01:
+new accuracy : 95 7086
+baseline accuracy :260 28408
+
+scene0404_02:
+new accuracy : 154 11324
+baseline accuracy :165 12056
+
+scene0468_02:
+new accuracy : 78 8122
+baseline accuracy :147 14823
+
+scene0546_00:
+new accuracy : 6 217
+baseline accuracy :7 376
+
+scene0209_00:
+new accuracy : 303 31034
+baseline accuracy :389 38971
+
+scene0041_00:
+new accuracy : 135 11904
+baseline accuracy :410 36919
+
+scene0185_00:
+new accuracy : 20 1350
+baseline accuracy :56 3774
+
+scene0209_01:
+new accuracy : 328 31935
+baseline accuracy :400 38152
+
+scene0041_01:
+new accuracy : 33 1956
+baseline accuracy :96 6618
+
+scene0209_02:
+new accuracy : 287 28103
+baseline accuracy :331 32468
+
+scene0126_00:
+new accuracy : 162 14004
+baseline accuracy :242 21787
+
+scene0210_00:
+new accuracy : 153 10492
+baseline accuracy :136 9141
+
+scene0466_00:
+new accuracy : 58 3257
+baseline accuracy :77 5669
+
+scene0111_00:
+new accuracy : 182 21284
+baseline accuracy :261 29579
+
+scene0210_01:
+new accuracy : 89 6855
+baseline accuracy :100 7448
+
+scene0126_01:
+new accuracy : 99 7861
+baseline accuracy :144 12052
+
+scene0126_02:
+new accuracy : 165 15196
+baseline accuracy :239 21880
+
+scene0519_00:
+new accuracy : 5 189
+baseline accuracy :6 189
+
+scene0111_01:
+new accuracy : 194 17629
+baseline accuracy :212 17900
+
+scene0236_00:
+new accuracy : 43 4137
+baseline accuracy :75 7150
+
+scene0395_00:
+new accuracy : 208 20915
+baseline accuracy :322 31219
+
+scene0236_01:
+new accuracy : 38 2721
+baseline accuracy :68 4786
+
+scene0111_02:
+new accuracy : 221 22394
+baseline accuracy :346 37672
+
+scene0466_01:
+new accuracy : 46 3056
+baseline accuracy :85 5451
+
+scene0666_00:
+new accuracy : 68 12167
+baseline accuracy :78 12841
+
+scene0395_01:
+new accuracy : 205 16863
+baseline accuracy :416 36807
+
+scene0666_01:
+new accuracy : 88 14350
+baseline accuracy :78 12420
+
+scene0189_00:
+new accuracy : 151 14391
+baseline accuracy :218 21611
+
+scene0395_02:
+new accuracy : 121 10898
+baseline accuracy :198 18610
+
+scene0683_00:
+new accuracy : 25 1636
+baseline accuracy :42 3412
+
+scene0666_02:
+new accuracy : 112 11578
+baseline accuracy :148 17928
+
+scene0220_00:
+new accuracy : 262 23518
+baseline accuracy :445 37931
+
+scene0200_00:
+new accuracy : 15 1522
+baseline accuracy :46 4480
+
+scene0075_00:
+new accuracy : 31 2919
+baseline accuracy :50 4707
+
+scene0267_00:
+new accuracy : 140 12947
+baseline accuracy :166 14103
+
+scene0200_01:
+new accuracy : 8 1158
+baseline accuracy :30 3062
+
+scene0601_00:
+new accuracy : 113 13201
+baseline accuracy :150 16965
+
+scene0192_00:
+new accuracy : 3 199
+baseline accuracy :23 1548
+
+scene0220_01:
+new accuracy : 252 21229
+baseline accuracy :417 34841
+
+scene0200_02:
+new accuracy : 35 4645
+baseline accuracy :54 6219
+
+scene0536_00:
+new accuracy : 104 8868
+baseline accuracy :188 16014
+
+scene0192_01:
+new accuracy : 6 531
+baseline accuracy :11 959
+
+scene0192_02:
+new accuracy : 4 213
+baseline accuracy :19 1512
+
+scene0601_01:
+new accuracy : 104 9556
+baseline accuracy :166 14511
+
+scene0536_01:
+new accuracy : 56 4498
+baseline accuracy :106 8905
+
+scene0214_00:
+new accuracy : 60 5255
+baseline accuracy :87 6239
+
+scene0536_02:
+new accuracy : 60 4610
+baseline accuracy :75 6600
+
+scene0220_02:
+new accuracy : 301 28987
+baseline accuracy :470 41939
+
+scene0281_00:
+new accuracy : 29 2485
+baseline accuracy :128 10777
+
+scene0214_01:
+new accuracy : 64 4926
+baseline accuracy :102 8190
+
+scene0390_00:
+new accuracy : 114 8772
+baseline accuracy :199 15678
+
+scene0280_00:
+new accuracy : 51 4527
+baseline accuracy :63 5640
+
+scene0122_00:
+new accuracy : 45 4692
+baseline accuracy :69 6579
+
+scene0280_01:
+new accuracy : 104 12078
+baseline accuracy :188 17171
+
+scene0214_02:
+new accuracy : 50 3142
+baseline accuracy :78 6138
+
+scene0280_02:
+new accuracy : 7 371
+baseline accuracy :11 570
+
+scene0122_01:
+new accuracy : 23 2315
+baseline accuracy :64 5878
+
+scene0420_00:
+new accuracy : 55 5177
+baseline accuracy :177 16148
+
+scene0130_00:
+new accuracy : 20 1863
+baseline accuracy :73 6645
+
+scene0344_00:
+new accuracy : 24 1884
+baseline accuracy :54 4559
+
+scene0344_01:
+new accuracy : 109 8547
+baseline accuracy :168 14637
+
+scene0477_00:
+new accuracy : 174 15587
+baseline accuracy :266 24133
+
+scene0205_00:
+new accuracy : 23 2080
+baseline accuracy :29 3279
+
+scene0219_00:
+new accuracy : 23 1622
+baseline accuracy :29 2571
+
+scene0477_01:
+new accuracy : 133 14238
+baseline accuracy :235 22766
+
+scene0110_00:
+new accuracy : 71 6369
+baseline accuracy :160 15228
+
+scene0464_00:
+new accuracy : 368 55784
+baseline accuracy :371 57351
+
+scene0622_01:
+new accuracy : 27 1616
+baseline accuracy :109 8819
+
+scene0420_01:
+new accuracy : 30 2563
+baseline accuracy :168 13473
+
+scene0110_01:
+new accuracy : 118 9903
+baseline accuracy :181 17436
+
+scene0232_00:
+new accuracy : 60 4826
+baseline accuracy :72 6284
+
+scene0244_00:
+new accuracy : 67 6593
+baseline accuracy :101 9057
+
+scene0232_01:
+new accuracy : 45 3946
+baseline accuracy :61 5155
+
+scene0420_02:
+new accuracy : 37 2694
+baseline accuracy :146 12739
+
+scene0232_02:
+new accuracy : 84 6816
+baseline accuracy :106 8851
+
+scene0110_02:
+new accuracy : 149 15157
+baseline accuracy :227 22065
+
+scene0244_01:
+new accuracy : 31 1969
+baseline accuracy :135 11965
+
+scene0195_00:
+new accuracy : 52 3995
+baseline accuracy :88 5556
+
+scene0299_00:
+new accuracy : 9 396
+baseline accuracy :31 1996
+
+scene0327_00:
+new accuracy : 154 13170
+baseline accuracy :277 25857
+
+scene0691_00:
+new accuracy : 79 10964
+baseline accuracy :115 13969
+
+scene0195_01:
+new accuracy : 53 4224
+baseline accuracy :73 6274
+
+scene0299_01:
+new accuracy : 15 1012
+baseline accuracy :29 2469
+
+scene0631_02:
+new accuracy : 55 4673
+baseline accuracy :111 11860
+
+scene0530_00:
+new accuracy : 61 5829
+baseline accuracy :128 11218
+
+scene0363_00:
+new accuracy : 62 6032
+baseline accuracy :113 9645
+
+scene0156_00:
+new accuracy : 67 4284
+baseline accuracy :124 8181
+
+scene0691_01:
+new accuracy : 72 5875
+baseline accuracy :136 12810
+
+scene0255_00:
+new accuracy : 31 3734
+baseline accuracy :86 8896
+
+scene0453_00:
+new accuracy : 139 15082
+baseline accuracy :238 23346
+
+scene0255_01:
+new accuracy : 16 1196
+baseline accuracy :81 6414
+
+scene0255_02:
+new accuracy : 37 3037
+baseline accuracy :72 5854
+
+scene0266_00:
+new accuracy : 78 6422
+baseline accuracy :223 23074
+
+scene0206_00:
+new accuracy : 188 17834
+baseline accuracy :250 22282
+
+scene0047_00:
+new accuracy : 101 8902
+baseline accuracy :122 11399
+
+scene0206_01:
+new accuracy : 39 3363
+baseline accuracy :75 6304
+
+scene0265_00:
+new accuracy : 23 1440
+baseline accuracy :32 2296
+
+scene0266_01:
+new accuracy : 88 6552
+baseline accuracy :230 20409
+
+scene0453_01:
+new accuracy : 320 39690
+baseline accuracy :565 67842
+
+scene0570_00:
+new accuracy : 6 632
+baseline accuracy :23 1568
+
+scene0265_01:
+new accuracy : 11 910
+baseline accuracy :29 2098
+
+scene0206_02:
+new accuracy : 52 4591
+baseline accuracy :92 7607
+
+scene0265_02:
+new accuracy : 18 1560
+baseline accuracy :33 2354
+
+scene0570_01:
+new accuracy : 11 802
+baseline accuracy :31 2313
+
+scene0001_00:
+new accuracy : 43 2691
+baseline accuracy :114 9430
+
+scene0004_00:
+new accuracy : 100 8034
+baseline accuracy :196 16147
+
+scene0570_02:
+new accuracy : 2 70
+baseline accuracy :8 790
+
+scene0183_00:
+new accuracy : 19 3660
+baseline accuracy :24 3886
+
+scene0001_01:
+new accuracy : 56 5028
+baseline accuracy :119 9494
+
+scene0228_00:
+new accuracy : 14 1156
+baseline accuracy :44 4165
+
+scene0239_00:
+new accuracy : 29 2151
+baseline accuracy :85 6079
+
+scene0239_01:
+new accuracy : 40 2628
+baseline accuracy :93 7753
+
+scene0199_00:
+new accuracy : 48 4510
+baseline accuracy :101 9712
+
+scene0336_00:
+new accuracy : 297 30770
+baseline accuracy :425 41602
+
+scene0239_02:
+new accuracy : 12 672
+baseline accuracy :32 1997
+
+scene0434_01:
+new accuracy : 21 3167
+baseline accuracy :25 3572
+
+scene0373_00:
+new accuracy : 11 1088
+baseline accuracy :33 2774
+
+scene0373_01:
+new accuracy : 22 1911
+baseline accuracy :29 2342
+
+scene0247_00:
+new accuracy : 347 32444
+baseline accuracy :622 58924
+
+scene0434_02:
+new accuracy : 28 3228
+baseline accuracy :38 3754
+
+scene0290_00:
+new accuracy : 164 15669
+baseline accuracy :308 28930
+
+scene0241_00:
+new accuracy : 138 13511
+baseline accuracy :161 14665
+
+scene0336_01:
+new accuracy : 278 25559
+baseline accuracy :382 34103
+
+scene0241_01:
+new accuracy : 110 10660
+baseline accuracy :134 13641
+
+scene0058_00:
+new accuracy : 100 9335
+baseline accuracy :130 11144
+
+scene0241_02:
+new accuracy : 109 12319
+baseline accuracy :153 17136
+
+scene0188_00:
+new accuracy : 43 3398
+baseline accuracy :145 13352
+
+scene0058_01:
+new accuracy : 73 6706
+baseline accuracy :136 12071
+
+scene0260_00:
+new accuracy : 28 2075
+baseline accuracy :39 2746
+
+scene0627_00:
+new accuracy : 223 18094
+baseline accuracy :480 44004
+
+scene0247_01:
+new accuracy : 330 31674
+baseline accuracy :558 51193
+
+scene0622_00:
+new accuracy : 24 1346
+baseline accuracy :104 9724
+
+scene0260_01:
+new accuracy : 44 3375
+baseline accuracy :46 3674
+
+scene0627_01:
+new accuracy : 62 4375
+baseline accuracy :229 19010
+
+scene0061_00:
+new accuracy : 152 18911
+baseline accuracy :149 17839
+
+scene0260_02:
+new accuracy : 33 3829
+baseline accuracy :29 1793
+
+scene0499_00:
+new accuracy : 37 2129
+baseline accuracy :86 4938
+
+scene0698_00:
+new accuracy : 78 13141
+baseline accuracy :184 25115
+
+scene0470_00:
+new accuracy : 40 4323
+baseline accuracy :69 6600
+
+scene0061_01:
+new accuracy : 68 7403
+baseline accuracy :93 11108
+
+scene0243_00:
+new accuracy : 147 15563
+baseline accuracy :164 17416
+
+scene0698_01:
+new accuracy : 82 7405
+baseline accuracy :157 16274
+
+scene0470_01:
+new accuracy : 44 3762
+baseline accuracy :106 10105
+
+scene0137_00:
+new accuracy : 190 17892
+baseline accuracy :285 25604
+
+scene0082_00:
+new accuracy : 7 352
+baseline accuracy :79 7228
+
+scene0051_00:
+new accuracy : 121 14016
+baseline accuracy :232 25604
+
+scene0250_00:
+new accuracy : 26 2322
+baseline accuracy :43 3594
+
+scene0051_01:
+new accuracy : 154 15693
+baseline accuracy :275 28511
+
+scene0603_00:
+new accuracy : 198 17395
+baseline accuracy :262 22344
+
+scene0137_01:
+new accuracy : 193 16124
+baseline accuracy :300 28546
+
+scene0250_01:
+new accuracy : 87 6276
+baseline accuracy :95 7010
+
+scene0051_02:
+new accuracy : 127 13308
+baseline accuracy :292 28251
+
+scene0250_02:
+new accuracy : 68 5000
+baseline accuracy :71 5093
+
+scene0501_00:
+new accuracy : 46 3699
+baseline accuracy :76 5701
+
+scene0137_02:
+new accuracy : 269 24046
+baseline accuracy :443 40362
+
+scene0603_01:
+new accuracy : 258 21820
+baseline accuracy :294 24888
+
+scene0051_03:
+new accuracy : 194 19877
+baseline accuracy :295 30293
+
+scene0501_01:
+new accuracy : 74 5566
+baseline accuracy :104 7963
+
+scene0093_00:
+new accuracy : 60 5216
+baseline accuracy :129 12613
+
+scene0108_00:
+new accuracy : 14 1068
+baseline accuracy :48 4838
+
+scene0501_02:
+new accuracy : 74 6217
+baseline accuracy :95 8110
+
+scene0270_00:
+new accuracy : 300 27949
+baseline accuracy :424 40432
+
+scene0093_01:
+new accuracy : 42 3824
+baseline accuracy :120 13134
+
+scene0093_02:
+new accuracy : 80 6388
+baseline accuracy :141 14381
+
+scene0109_00:
+new accuracy : 53 4336
+baseline accuracy :63 4849
+
+scene0109_01:
+new accuracy : 34 2210
+baseline accuracy :42 2803
+
+scene0434_00:
+new accuracy : 20 1739
+baseline accuracy :30 2444
+
+scene0270_01:
+new accuracy : 271 24916
+baseline accuracy :344 31142
+
+scene0320_00:
+new accuracy : 235 27526
+baseline accuracy :278 33618
+
+scene0245_00:
+new accuracy : 106 6887
+baseline accuracy :224 15303
+
+scene0557_00:
+new accuracy : 24 2335
+baseline accuracy :62 5714
+
+scene0557_01:
+new accuracy : 44 4107
+baseline accuracy :54 4906
+
+scene0557_02:
+new accuracy : 62 6213
+baseline accuracy :60 5513
+
+scene0533_00:
+new accuracy : 31 4696
+baseline accuracy :140 16516
+
+scene0369_00:
+new accuracy : 78 7190
+baseline accuracy :146 13898
+
+scene0320_01:
+new accuracy : 78 13026
+baseline accuracy :124 16799
+
+scene0270_02:
+new accuracy : 185 20499
+baseline accuracy :312 31702
+
+scene0369_01:
+new accuracy : 121 12403
+baseline accuracy :233 24166
+
+scene0533_01:
+new accuracy : 44 2817
+baseline accuracy :162 15141
+
+scene0369_02:
+new accuracy : 128 12652
+baseline accuracy :215 22126
+
+scene0116_00:
+new accuracy : 32 2344
+baseline accuracy :54 3114
+
+scene0320_02:
+new accuracy : 110 13727
+baseline accuracy :163 19521
+
+scene0271_00:
+new accuracy : 175 18597
+baseline accuracy :239 24486
+
+scene0116_01:
+new accuracy : 39 2982
+baseline accuracy :53 3840
+
+scene0284_00:
+new accuracy : 40 3552
+baseline accuracy :81 6257
+
+scene0116_02:
+new accuracy : 30 1900
+baseline accuracy :36 2321
+
+scene0271_01:
+new accuracy : 196 23391
+baseline accuracy :201 20970
+
+scene0504_00:
+new accuracy : 149 17769
+baseline accuracy :239 25345
+
+scene0320_03:
+new accuracy : 90 11381
+baseline accuracy :141 17197
+
+scene0631_00:
+new accuracy : 72 6908
+baseline accuracy :65 4957
+
+scene0611_00:
+new accuracy : 29 2482
+baseline accuracy :97 9290
+
+scene0631_01:
+new accuracy : 26 2611
+baseline accuracy :66 8790
+
+scene0121_00:
+new accuracy : 22 1663
+baseline accuracy :15 1629
+
+scene0289_00:
+new accuracy : 71 5928
+baseline accuracy :152 12717
+
+scene0274_00:
+new accuracy : 45 3615
+baseline accuracy :118 9194
+
+scene0121_01:
+new accuracy : 21 2022
+baseline accuracy :12 1303
+
+scene0611_01:
+new accuracy : 34 2683
+baseline accuracy :96 9791
+
+scene0121_02:
+new accuracy : 12 1833
+baseline accuracy :11 701
+
+scene0688_00:
+new accuracy : 33 3423
+baseline accuracy :49 4290
+
+scene0274_01:
+new accuracy : 89 8001
+baseline accuracy :146 12514
+
+scene0289_01:
+new accuracy : 28 2661
+baseline accuracy :64 5333
+
+scene0294_00:
+new accuracy : 59 6006
+baseline accuracy :175 16451
+
+scene0040_00:
+new accuracy : 175 16323
+baseline accuracy :271 23588
+
+scene0274_02:
+new accuracy : 102 10166
+baseline accuracy :183 17464
+
+scene0286_00:
+new accuracy : 74 9078
+baseline accuracy :100 10663
+
+scene0294_01:
+new accuracy : 59 5191
+baseline accuracy :181 14944
+
+scene0286_01:
+new accuracy : 60 6534
+baseline accuracy :81 8559
+
+scene0036_00:
+new accuracy : 20 1211
+baseline accuracy :50 4097
+
+scene0286_02:
+new accuracy : 69 8008
+baseline accuracy :95 9893
+
+scene0036_01:
+new accuracy : 19 1475
+baseline accuracy :43 3252
+
+scene0286_03:
+new accuracy : 53 6506
+baseline accuracy :74 7095
+
+scene0040_01:
+new accuracy : 271 26129
+baseline accuracy :434 44975
+
+scene0294_02:
+new accuracy : 100 8594
+baseline accuracy :210 18700
+
+scene0276_00:
+new accuracy : 135 9826
+baseline accuracy :301 25820
+
+scene0031_00:
+new accuracy : 42 3548
+baseline accuracy :165 15296
+
+scene0031_01:
+new accuracy : 64 4828
+baseline accuracy :192 17321
+
+scene0295_00:
+new accuracy : 69 4918
+baseline accuracy :104 7372
+
+scene0197_00:
+new accuracy : 34 3528
+baseline accuracy :51 4001
+
+scene0295_01:
+new accuracy : 23 3418
+baseline accuracy :64 7239
+
+scene0197_01:
+new accuracy : 40 2902
+baseline accuracy :57 3947
+
+scene0031_02:
+new accuracy : 61 5306
+baseline accuracy :167 16821
+
+scene0276_01:
+new accuracy : 418 43961
+baseline accuracy :582 55055
+
+scene0545_00:
+new accuracy : 35 3216
+baseline accuracy :85 7319
+
+scene0272_00:
+new accuracy : 106 11949
+baseline accuracy :138 14952
+
+scene0296_00:
+new accuracy : 82 7230
+baseline accuracy :197 17078
+
+scene0197_02:
+new accuracy : 34 2504
+baseline accuracy :53 3893
+
+scene0410_00:
+new accuracy : 14 1239
+baseline accuracy :21 1670
+
+scene0545_01:
+new accuracy : 25 2509
+baseline accuracy :76 7906
+
+scene0272_01:
+new accuracy : 124 11626
+baseline accuracy :120 10013
+
+scene0410_01:
+new accuracy : 9 840
+baseline accuracy :15 2744
+
+scene0013_00:
+new accuracy : 6 299
+baseline accuracy :23 1427
+
+scene0296_01:
+new accuracy : 130 11959
+baseline accuracy :228 21230
+
+scene0596_00:
+new accuracy : 12 1137
+baseline accuracy :107 10131
+
+scene0545_02:
+new accuracy : 32 2867
+baseline accuracy :89 8015
+
+scene0013_01:
+new accuracy : 2 77
+baseline accuracy :14 645
+
+scene0013_02:
+new accuracy : 1 66
+baseline accuracy :25 1252
+
+scene0596_01:
+new accuracy : 5 481
+baseline accuracy :49 4257
+
+scene0596_02:
+new accuracy : 19 2527
+baseline accuracy :96 10277
+
+scene0681_00:
+new accuracy : 57 4331
+baseline accuracy :76 5218
+
+scene0305_00:
+new accuracy : 284 30833
+baseline accuracy :338 34120
+
+scene0532_00:
+new accuracy : 7 620
+baseline accuracy :31 2200
+
+scene0136_00:
+new accuracy : 170 13284
+baseline accuracy :186 14995
+
+scene0398_00:
+new accuracy : 89 7431
+baseline accuracy :158 13085
+
+scene0532_01:
+new accuracy : 10 893
+baseline accuracy :23 1606
+
+scene0136_01:
+new accuracy : 18 1402
+baseline accuracy :33 2372
+
+scene0398_01:
+new accuracy : 81 7766
+baseline accuracy :177 19508
+
+scene0637_00:
+new accuracy : 22 1851
+baseline accuracy :38 2149
+
+scene0136_02:
+new accuracy : 40 3221
+baseline accuracy :63 4702
+
+scene0305_01:
+new accuracy : 185 16077
+baseline accuracy :275 23625
+
+scene0227_00:
+new accuracy : 31 2939
+baseline accuracy :59 5155
+
+scene0638_00:
+new accuracy : 6 1014
+baseline accuracy :29 2227
+
+scene0090_00:
+new accuracy : 9 558
+baseline accuracy :11 616
+
+scene0615_00:
+new accuracy : 125 9533
+baseline accuracy :166 12564
+
+scene0407_00:
+new accuracy : 110 9366
+baseline accuracy :148 12833
+
+scene0407_01:
+new accuracy : 111 9974
+baseline accuracy :192 17002
+
+scene0062_00:
+new accuracy : 16 970
+baseline accuracy :28 1903
+
+scene0062_01:
+new accuracy : 13 666
+baseline accuracy :30 1738
+
+scene0615_01:
+new accuracy : 148 14387
+baseline accuracy :205 19761
+
+scene0703_00:
+new accuracy : 33 3788
+baseline accuracy :90 8881
+
+scene0062_02:
+new accuracy : 11 460
+baseline accuracy :22 1226
+
+scene0640_01:
+new accuracy : 102 15015
+baseline accuracy :214 24687
+
+scene0386_00:
+new accuracy : 200 19114
+baseline accuracy :325 31869
+
+scene0703_01:
+new accuracy : 18 1234
+baseline accuracy :68 6061
+
+scene0066_00:
+new accuracy : 131 7225
+baseline accuracy :288 24383
+
+scene0318_00:
+new accuracy : 10 1225
+baseline accuracy :51 4589
+
+scene0262_00:
+new accuracy : 118 11041
+baseline accuracy :244 22973
+
+scene0640_02:
+new accuracy : 108 12419
+baseline accuracy :181 18686
+
+scene0554_00:
+new accuracy : 224 20720
+baseline accuracy :271 25425
+
+scene0262_01:
+new accuracy : 86 6031
+baseline accuracy :153 12131
+
+scene0555_00:
+new accuracy : 194 17568
+baseline accuracy :303 27705
+
+scene0080_00:
+new accuracy : 8 520
+baseline accuracy :11 852
+
+scene0080_01:
+new accuracy : 1 139
+baseline accuracy :20 1617
+
+scene0554_01:
+new accuracy : 176 16335
+baseline accuracy :202 19689
+
+scene0080_02:
+new accuracy : 8 499
+baseline accuracy :24 1732
+
+scene0297_00:
+new accuracy : 63 4851
+baseline accuracy :121 9631
+
+scene0155_00:
+new accuracy : 108 9095
+baseline accuracy :314 32231
+
+scene0155_01:
+new accuracy : 88 8116
+baseline accuracy :242 25896
+
+scene0297_01:
+new accuracy : 26 1954
+baseline accuracy :96 7414
+
+scene0297_02:
+new accuracy : 16 1011
+baseline accuracy :67 4931
+
+scene0403_00:
+new accuracy : 347 28821
+baseline accuracy :505 43126
+
+scene0582_00:
+new accuracy : 167 14220
+baseline accuracy :239 21532
+
+scene0155_02:
+new accuracy : 74 5394
+baseline accuracy :218 21310
+
+scene0497_00:
+new accuracy : 270 26666
+baseline accuracy :449 40442
+
+scene0352_00:
+new accuracy : 110 9099
+baseline accuracy :176 14774
+
+scene0582_01:
+new accuracy : 131 9256
+baseline accuracy :267 22375
+
+scene0213_00:
+new accuracy : 116 8894
+baseline accuracy :111 8687
+
+scene0352_01:
+new accuracy : 96 7799
+baseline accuracy :151 12131
+
+scene0403_01:
+new accuracy : 248 21017
+baseline accuracy :451 39696
+
+scene0258_00:
+new accuracy : 149 13925
+baseline accuracy :185 18520
+
+scene0582_02:
+new accuracy : 194 17261
+baseline accuracy :283 26496
+
+scene0282_00:
+new accuracy : 49 4200
+baseline accuracy :53 4313
+
+scene0352_02:
+new accuracy : 91 7975
+baseline accuracy :156 15376
+
+scene0038_00:
+new accuracy : 19 1212
+baseline accuracy :79 8262
+
+scene0323_00:
+new accuracy : 72 6632
+baseline accuracy :118 9275
+
+scene0282_01:
+new accuracy : 45 4240
+baseline accuracy :75 7015
+
+scene0323_01:
+new accuracy : 118 13472
+baseline accuracy :70 8085
+
+scene0282_02:
+new accuracy : 54 4512
+baseline accuracy :91 9801
+
+scene0324_00:
+new accuracy : 36 2878
+baseline accuracy :81 8052
+
+scene0324_01:
+new accuracy : 75 7220
+baseline accuracy :95 10335
+
+scene0023_00:
+new accuracy : 236 31617
+baseline accuracy :407 50836
+
+scene0038_01:
+new accuracy : 17 1076
+baseline accuracy :50 4283
+
+scene0682_00:
+new accuracy : 64 6347
+baseline accuracy :88 8237
+
+scene0016_00:
+new accuracy : 65 4892
+baseline accuracy :64 5212
+
+scene0094_00:
+new accuracy : 45 3204
+baseline accuracy :103 6889
+
+scene0016_01:
+new accuracy : 33 3109
+baseline accuracy :38 4299
+
+scene0016_02:
+new accuracy : 55 5629
+baseline accuracy :54 5360
+
+scene0038_02:
+new accuracy : 13 833
+baseline accuracy :64 7756
+
+scene0173_00:
+new accuracy : 213 50396
+baseline accuracy :395 70082
+
+scene0211_00:
+new accuracy : 253 21603
+baseline accuracy :293 31683
+
+scene0359_00:
+new accuracy : 20 1994
+baseline accuracy :50 3885
+
+scene0359_01:
+new accuracy : 18 1000
+baseline accuracy :53 4451
+
+scene0173_01:
+new accuracy : 124 36070
+baseline accuracy :208 49545
+
+scene0014_00:
+new accuracy : 51 6048
+baseline accuracy :87 8275
+
+scene0335_00:
+new accuracy : 151 12522
+baseline accuracy :218 15911
+
+scene0211_01:
+new accuracy : 244 21703
+baseline accuracy :307 27341
+
+scene0120_00:
+new accuracy : 21 1725
+baseline accuracy :37 3416
+
+scene0120_01:
+new accuracy : 8 909
+baseline accuracy :33 2632
+
+scene0173_02:
+new accuracy : 129 35322
+baseline accuracy :183 43171
+
+scene0522_00:
+new accuracy : 45 3345
+baseline accuracy :69 4664
+
+scene0212_00:
+new accuracy : 135 10797
+baseline accuracy :224 18214
+
+scene0211_02:
+new accuracy : 249 24573
+baseline accuracy :274 24032
+
+scene0335_01:
+new accuracy : 197 18413
+baseline accuracy :235 20004
+
+scene0687_00:
+new accuracy : 52 4255
+baseline accuracy :82 6594
+
+scene0212_01:
+new accuracy : 61 6227
+baseline accuracy :136 14754
+
+scene0212_02:
+new accuracy : 89 7223
+baseline accuracy :199 17421
+
+scene0211_03:
+new accuracy : 245 22760
+baseline accuracy :290 26476
+
+scene0176_00:
+new accuracy : 4 332
+baseline accuracy :24 985
+
+scene0676_00:
+new accuracy : 55 4198
+baseline accuracy :72 5119
+
+scene0049_00:
+new accuracy : 48 3237
+baseline accuracy :110 8924
+
+scene0676_01:
+new accuracy : 33 2595
+baseline accuracy :44 3303
+
+scene0179_00:
+new accuracy : 242 22059
+baseline accuracy :258 25388
+
+scene0335_02:
+new accuracy : 244 19009
+baseline accuracy :182 12731
+
+scene0259_00:
+new accuracy : 70 8018
+baseline accuracy :132 12673
+
+scene0345_00:
+new accuracy : 163 17041
+baseline accuracy :388 38866
+
+scene0498_00:
+new accuracy : 102 8764
+baseline accuracy :152 11548
+
+scene0259_01:
+new accuracy : 37 3517
+baseline accuracy :69 5792
+
+scene0586_00:
+new accuracy : 30 2450
+baseline accuracy :57 4420
+
+scene0261_00:
+new accuracy : 144 10980
+baseline accuracy :200 14827
+
+scene0498_01:
+new accuracy : 119 9156
+baseline accuracy :130 9899
+
+scene0345_01:
+new accuracy : 281 26348
+baseline accuracy :457 47661
+
+scene0586_01:
+new accuracy : 37 2932
+baseline accuracy :79 7256
+
+scene0261_01:
+new accuracy : 167 13986
+baseline accuracy :233 19448
+
+scene0498_02:
+new accuracy : 97 7609
+baseline accuracy :167 14029
+
+scene0612_00:
+new accuracy : 19 1136
+baseline accuracy :28 2030
+
+scene0261_02:
+new accuracy : 51 3591
+baseline accuracy :121 9867
+
+scene0586_02:
+new accuracy : 36 2534
+baseline accuracy :96 6847
+
+scene0261_03:
+new accuracy : 67 7100
+baseline accuracy :121 11543
+
+scene0612_01:
+new accuracy : 9 479
+baseline accuracy :19 1445
+
+scene0411_00:
+new accuracy : 4 190
+baseline accuracy :11 545
+
+scene0547_00:
+new accuracy : 362 38207
+baseline accuracy :331 34663
+
+scene0309_00:
+new accuracy : 139 11165
+baseline accuracy :239 19163
+
+scene0547_01:
+new accuracy : 260 29225
+baseline accuracy :322 35327
+
+scene0640_00:
+new accuracy : 129 13509
+baseline accuracy :204 20346
+
+scene0309_01:
+new accuracy : 157 12706
+baseline accuracy :267 20453
+
+scene0411_01:
+new accuracy : 5 286
+baseline accuracy :22 1319
+
+scene0125_00:
+new accuracy : 162 14974
+baseline accuracy :236 24395
+
+scene0547_02:
+new accuracy : 382 40928
+baseline accuracy :355 34954
+
+scene0269_00:
+new accuracy : 22 1716
+baseline accuracy :67 5644
+
+scene0269_01:
+new accuracy : 26 3176
+baseline accuracy :70 12423
+
+scene0269_02:
+new accuracy : 368 45587
+baseline accuracy :649 74972
+
+scene0366_00:
+new accuracy : 76 6000
+baseline accuracy :88 6746
+
+scene0455_00:
+new accuracy : 106 8251
+baseline accuracy :244 22090
+
+scene0411_02:
+new accuracy : 11 508
+baseline accuracy :26 1650
+
+scene0680_00:
+new accuracy : 18 1871
+baseline accuracy :24 2693
+
+scene0625_00:
+new accuracy : 17 1574
+baseline accuracy :18 1163
+
+scene0625_01:
+new accuracy : 9 802
+baseline accuracy :21 3444
+
+scene0177_00:
+new accuracy : 153 14730
+baseline accuracy :209 20980
+
+scene0680_01:
+new accuracy : 41 4208
+baseline accuracy :66 8603
+
+scene0177_01:
+new accuracy : 99 9840
+baseline accuracy :192 18259
+
+scene0177_02:
+new accuracy : 168 13214
+baseline accuracy :340 28038
+
+scene0588_00:
+new accuracy : 52 3287
+baseline accuracy :104 8073
+
+scene0326_00:
+new accuracy : 56 5017
+baseline accuracy :78 6544
+
+scene0372_00:
+new accuracy : 80 6450
+baseline accuracy :230 20974
+
+scene0588_01:
+new accuracy : 180 16976
+baseline accuracy :282 26878
+
+scene0171_00:
+new accuracy : 22 1945
+baseline accuracy :101 9556
+
+scene0588_02:
+new accuracy : 65 6087
+baseline accuracy :192 19735
+
+scene0588_03:
+new accuracy : 114 10705
+baseline accuracy :296 28746
+
+scene0346_00:
+new accuracy : 8 575
+baseline accuracy :18 1228
+
+scene0346_01:
+new accuracy : 13 1044
+baseline accuracy :20 1822
