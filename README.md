@@ -22,10 +22,10 @@ pip install -r requirements.txt
 ```
 
 ## Getting Started
-```
+
 First you need to download Scannetv2 dataset and link it to the main folder.
 And see the example commands in run.sh
-```
+
 
 ## Citation
 Our arxiv and bibtex will be released soon.
