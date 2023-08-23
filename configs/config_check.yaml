@@ -1,0 +1,11 @@
+noise_mode: 0
+noise: 0.1
+beta: 0.5
+bg_w: 32
+vis_2dmasks: False
+vis_final: True
+test_final_acc: True
+print_final_acc: True
+consider_bg_obj: True
+shrink_box: True
+only_scanned_bg: True

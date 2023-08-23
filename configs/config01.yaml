@@ -1,0 +1,13 @@
+noise_mode: 0
+noise: 0.1
+beta: 0.5
+bg_w: 32
+vis_2dmasks: False
+vis_final: False
+test_final_acc: True
+print_final_acc: False
+consider_bg_obj: False
+shrink_box: True
+only_scanned_bg: True
+prompt_combine: False 
+delete_sel: True
