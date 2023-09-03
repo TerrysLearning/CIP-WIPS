@@ -10,14 +10,14 @@ Learning from bounding-boxes annotations has shown great potential in weakly-sup
 ![](./docs/image1.png)
 ![](./docs/image.png)
 
-**Workflow of our proposed CIP-WPIS. The left part depicts the whole pipeline for obtaining the point-wise instance labels from
+*Workflow of our proposed CIP-WPIS. The left part depicts the whole pipeline for obtaining the point-wise instance labels from
 noisy bounding boxes. Specifically, we first assign the candidate points for each instance given the noisy bounding boxes. Then we devise
 the 3D confidence ensemble module to correct the mislabeled point of each instance. The middle part plots the concrete procedure of the
 3D confidence ensemble module. To better exploit the foundation knowledge ensembled in the large 2D foundation model, we first design
 a greedy selection algorithm to select multiple 2D views in which an instance is fully visible. Based on projected object points in each 2D
 view, we introduce a complementary prompt generation module to obtain the SAM predictions from various views. After that, we integrate
 these predictions to indicate whether the point belongs to the instance. The right part details the complementary prompt generation module.
-In this module, we introduce the complementary background and foreground prompts to obtain the object mask for each instance.** 
+In this module, we introduce the complementary background and foreground prompts to obtain the object mask for each instance.* 
 
 
 ## Installation
