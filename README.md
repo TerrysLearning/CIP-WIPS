@@ -8,7 +8,7 @@ Learning from bounding-boxes annotations has shown great potential in weakly-sup
 ## Result and Pipline Visualisation
 
 ![](./docs/image1.png)
-![](./docs/image2.png)
+![](./docs/image.png)
 
 
 ## Installation
