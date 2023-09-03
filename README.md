@@ -19,8 +19,9 @@ view, we introduce a complementary prompt generation module to obtain the SAM pr
 these predictions to indicate whether the point belongs to the instance. The right part details the complementary prompt generation module.
 In this module, we introduce the complementary background and foreground prompts to obtain the object mask for each instance.* 
 
+
 ![](./docs/vis2.png)
-*Visualisation of results of our CIP-WIPS
+*Visualisation of results of our CIP-WIPS*
 
 ## Installation
 ```
