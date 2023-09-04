@@ -1,4 +1,4 @@
-# Weakly-supervised Point Cloud Instance Segmentation from Noisy Bounding Box Annotations via SAM Auto-labeling
+# When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision
 - First Author: Qingtao Yu (Research assitant)
 - Institutes: Australian National University; University of Queensland
 
